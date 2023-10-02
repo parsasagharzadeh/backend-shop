@@ -1,0 +1,8 @@
+{
+    "name":"parsa project " , 
+    "db":{
+        "address":"mongodb://localhost:27017/shoponline"
+    } ,
+  "jwt_key":"dsnb2k334n5t4kb6n56k7lm6m86m8l6l7m8kl45lkj634jt840935tikgoeg"
+
+}
